@@ -1,5 +1,24 @@
 # USDA SNAP Path Analysis
 
+## 18F Team
+
+- Nikki Zeichner, Strategy @nikzei
+- Roger Steve Ruiz, Engineering @rogeruiz
+- Olesya Minina, Engagement Manager @ominina
+
+## Team Process
+
+- Stand-ups: Daily in Slack, [#usda-snap-pa][slack-channel] 9:30 PT / 12:30 ET
+- Co-working: Daily in Hangouts / Meet, 1 hour
+- Shipping News: Update document during the week, submit on Fridays
+- Weekly Video Meeting with client
+- Weekly check-ins with CPS
+- Bi-weekly Retrospectives
+
+Read more about the Team Process in the [TeamProcess.md][] documentation.
+
+[slack-channel]: https://gsa-tts.slack.com/archives/usda-snap-pa
+
 ## Contributing
 
 See [CONTRIBUTING](CONTRIBUTING.md) for additional information.
