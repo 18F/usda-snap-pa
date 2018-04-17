@@ -2,9 +2,9 @@
 
 ## 18F Team
 
-- Nikki Zeichner, Strategy @nikzei
-- Roger Steve Ruiz, Engineering @rogeruiz
-- Olesya Minina, Engagement Manager @ominina
+- Nikki Zeichner, Strategy [@nikzei](https://github.com/nikzei)
+- Roger Steve Ruiz, Engineering [@rogeruiz](https://github.com/rogeruiz)
+- Olesya Minina, Engagement Manager [@ominina](https://github.com/ominina)
 
 ## Team Process
 
