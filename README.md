@@ -15,7 +15,7 @@
 - Weekly check-ins with CPS
 - Bi-weekly Retrospectives
 
-Read more about the Team Process in the [TeamProcess.md][] documentation.
+Read more about the Team Process in the [TeamProcess.md](TeamProcess.md) documentation.
 
 [slack-channel]: https://gsa-tts.slack.com/archives/usda-snap-pa
 
