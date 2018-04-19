@@ -13,11 +13,13 @@
 
 - **Stand-ups**: Daily in Slack, [#usda-snap-pa][slack-channel] 9:30 PT / 12:30 ET
 - **Co-working**: Daily in Hangouts / Meet, 1 hour
-- **Shipping News**: Update document during the week, submit on Fridays
+- **Shipping News**: Update document during the week, submit on Fridays. You can
+  find all the shipping news documents in the [`shipping-news`
+  directory](./shipping-news).
 - **Tracking work**: [Github Projects](https://github.com/18F/usda-snap-pa/projects) (note that since this is an 8 week engagement, we are breaking up our work into 1 week sprints)
 - **USDA + 18F check ins**: Weekly video meeting with client, Tuesdays 3-4 ET
 - **Slack, 18F + USDA**: [#partners-usda-snap-pa][slack-channel]
-- **CPS + 18F check-ins**: weekly to discuss budget and overall progress/blockers 
+- **CPS + 18F check-ins**: weekly to discuss budget and overall progress/blockers
 - **Retrospectives**: Bi-weekly
 
 Read more about the Team Process in the [TeamProcess.md](TeamProcess.md) documentation.
