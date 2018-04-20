@@ -17,4 +17,7 @@ work. We ship this document to our partner on Fridays.
 - Received a copy of the Performance Work Statement (PWS)
 
 ### What we are planning for next week
+- We have a lot of materials that we still need to review to understand the history of this project, and the stakeholders involved. So we will be reading more.
+- Compiling the Java source so that we can install the Alfresco SWIM AMP into the Alfresco Community edition. Once its installed we can start evaluating the source. 
+- Meeting with 18F colleagues involved in related projects: those working on agile contracting and on SNAP related projects
 
