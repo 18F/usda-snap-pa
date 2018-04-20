@@ -26,6 +26,13 @@ Read more about the Team Process in the [TeamProcess.md](TeamProcess.md) documen
 
 [slack-channel]: https://gsa-tts.slack.com/archives/usda-snap-pa
 
+## Path Analysis Timeline
+
+| <p align=center> Week 1 <br> 4/16-4/20 </p> | <p align=center> Week 2-3 <br> 4/23-5/4 </p> | <p align=center> Week 4-6 <br> 5/7-5/25 </p> | <p align=center> Week 7-8 <br> 5/29-6/8 </p> |
+| ------ | -------- | -------- | -------- |
+| Prep Kickoff | Kickoff & Research | Additional Research & Prototyping & Documentation | Synthesis & Final Presentation |
+
+
 ## Contributing
 
 See [CONTRIBUTING](CONTRIBUTING.md) for additional information.
