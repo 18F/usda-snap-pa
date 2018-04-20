@@ -21,3 +21,6 @@ work. We ship this document to our partner on Fridays.
 - Compiling the Java source so that we can install the Alfresco SWIM AMP into the Alfresco Community edition. Once its installed we can start evaluating the source. 
 - Meeting with 18F colleagues involved in related projects: those working on agile contracting and on SNAP related projects
 
+### Budget
+- For the week ending 4/14/2018 we have spent $8,422 and have $166,578 remaining
+- Expected project end date is  6/18/2018
