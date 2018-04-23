@@ -9,10 +9,10 @@ for the team:
 
 <summary>Standup Template</summary>
 
-*Yesterday*:
-*Today*:
-*Blockers*:
-*Goals*:
+- *Yesterday*:
+- *Today*:
+- *Blockers*:
+- *Goals*:
 
 </details>
 
