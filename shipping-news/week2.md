@@ -18,4 +18,6 @@
 - begin to flesh out ideas of activities related to revising and streamlining documentation that we'd like to facilitate during our meetings in person and in ongoing virtual meetings;
 - continue with inventorying documentation and breaking down technical details into buckets of the overall business goals that they serve
 
+### Budget
 
+- as of today, we've spent $41,164 and have $133,836 remaining.
