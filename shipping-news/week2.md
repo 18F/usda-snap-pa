@@ -3,7 +3,7 @@
 
 ### What we did this week
 
-- continued reviewing SWIM documentation and creating an inventory or it. In doing so, we noticed that likely our work during this engagement will not only be around identifying what parts of the code are salvageable, but also what parts of the documentation (requirements docs, for example) are salvageable. We anticipate doing work together to reenvision documentation moving forward;
+- continued reviewing SWIM documentation and creating an inventory for it. In doing so, we noticed that likely our work during this engagement will not only be around identifying what parts of the code are salvageable, but also what parts of the documentation (requirements docs, for example) are salvageable. We anticipate doing work together to reenvision documentation moving forward;
 - had conversations with colleagues to discuss how to shape requirement documentations that best support agile contracting;
 - got code deliverables in functioning state, and this leads us to have a draft of our initial evaluation. We'll use this to start discussions and we plan for the final version of this evaluation to live in this github repo;
 - had our first bi-weekly retro. We're posting ideas and action items from our retros [here](../Retrospectives.md);
