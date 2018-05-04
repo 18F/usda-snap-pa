@@ -18,10 +18,10 @@ In this preliminary evaluation, we focused on four criteria to consider whether 
 ## Explanation of Criteria Used
 ### Understandability
 We took into consideration how easy it would be for a new developer to begin to work with these different codebases. We recognize that there will always be a margin of chaos for someone picking up with an existing codebase. That said, there are some factors that make it easier for a new person to get up to speed. Some of the factors that we believe make code understandable are:
-whether the code came with comments intended to onboard a new team member;
-whether the code was written clearly, simply, and without redundancies;
-how modular the code is; and  
-whether there are functioning tests provided for the codebase (this is very important!);
+- whether the code came with comments intended to onboard a new team member;
+- whether the code was written clearly, simply, and without redundancies;
+- how modular the code is; and  
+- whether there are functioning tests provided for the codebase (this is very important!);
 ### Documentation
 We took into consideration the amount of materials provided by the previous team to assist a new team with onboarding. Documentation is the backbone of any codebase and is required reading for any engineer that attempts to maintain and operate it. Without documentation of how the code functions, an engineer inevitably engages in a lot of guesswork in order to utilize the code. Poor documentation can lead to inefficient onboarding. 
 Note that part of writing strong documentation is including references to existing documentation that is relevant. For example, when code follows a popular framework, its documentation, at a minimum, should say so and should reference the well-known instructions from that framework.
@@ -35,7 +35,6 @@ Our recommendation based on the discussed criteria is that:
 - Regarding the backend, the Alfresco Repo and Alfresco Share code do not seem salvageable in their current state. They require significant refactors around documentation, and tests.
 - Regarding the front end, the Alfresco JQ code interaction code seems like it could be salvageable. 
 - We would want to weigh other available options before concluding that salvaging the Alfresco JQ code would be the most efficient and cost effective option.
-For example, we would like to perform some usability testing on the demo application.
 
 ## SWIM Alfresco Repo UAT Release 2.3.1
 ### Preliminary Summary
