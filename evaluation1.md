@@ -77,7 +77,7 @@ As a front-end project, this codebase isn’t buildable, but does run appropriat
 ### Interoperability
 This codebase is tightly coupled with the previous codebases, Repo. The front-end code is an entirely custom jQuery project that attempts to be back-end agnostic even though it only supports this particular Alfresco Repository back-end and not any Alfresco Repository back-end. The project does not leverage the Alfresco Application Development Framework (ADF).
 ## Next Steps
-- We’d like to hear your feedback about this preliminary evaluation. In particular, we’re interested in hearing about:
+We’d like to hear your feedback about this preliminary evaluation. In particular, we’re interested in hearing about:
 - What you learned from this document;
 - If there are any areas that you’d like us to explore more;
 - How we can incorporate a cost/benefit analysis into our evaluation, so that we consider the expense and time involved in refactoring code versus starting fresh; and
