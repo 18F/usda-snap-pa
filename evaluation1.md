@@ -7,7 +7,8 @@
 - swim-jq-uatrelease2.3.1/)
 
 ## Evaluation Overview
-Below is a preliminary evaluation of the code developed for the SWIM application before April 2018. This evaluation considers code written for the front end of the application as well as that written for the back end. Note that this is an initial draft that we are distributing for feedback. We anticipate that it will be a conversation starter, and that changes and additions will be made before our final draft.
+Below is a preliminary evaluation of the code developed for the SWIM application before April 2018. This evaluation considers code written for the front end of the application as well as that written for the back end. **Note that this is an initial draft that we are distributing for feedback. We anticipate that it will be a conversation starter, and that changes and additions will be made before our final draft.**
+
 In this preliminary evaluation, we focused on four criteria to consider whether the code would be salvageable and reusable by other developers: 
 - (1) understandability, 
 - (2) documentation, 
