@@ -2,7 +2,7 @@
 
 ### What we did this week
 
-- We drafted our preliminary evaluation document for the SWIM code deliverables. We
+- We drafted our preliminary evaluation document for the SWIM code deliverables - read it [here](usda-snap-pa/evaluation1.md). We
   based this evaluation on Understandability, Documentation, Buildability, and
   Interoperability. This was drafted to begin the conversation around how to
   move forward with the code deliverables. We expect this document to grow
