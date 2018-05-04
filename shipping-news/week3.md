@@ -33,4 +33,6 @@ Additionally, we are including an article that introduces Twelve-Factor Apps, a 
   issues from a contracting perspective
 - Meet with Veronica Brown, a former product manager of SWIM. We're hoping to
   learn about team's process.
+- Plan activities for our in person meetings on 5/17 + 5/18
+- Continued review of documentation to find places of redundancy and conflicting information
 
