@@ -34,4 +34,5 @@ Additionally, we are including an article that introduces Twelve-Factor Apps, a 
   learn about team's process;
 - plan activities for our in person meetings on 5/17 + 5/18; and
 - continued review of documentation to find places of redundancy and conflicting information.
-
+### Budget
+For the week ending 4/27/2018 we have spent $42,683 and have $132,317 remaining.
