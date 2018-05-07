@@ -1,4 +1,4 @@
-# Shipping News for Monday the 30th
+# Shipping News for the week of Monday the 30th
 
 ### What we did this week
 
