@@ -14,6 +14,10 @@ We're half way through this engagement and we're starting to shift directions fr
 - On Monday, we're planning to have multiple interviews with anticipated SWIM users (these will be with individuals who process SNAP waiver requests submitted by States);
 - We'll be in DC for in person workshopping with you on Thursday and Friday! Earlier in the week, we'll be heads down on synthesizing our user interview learnings and preparing for our workshops.
 
+### Budget
+Project end date is 6/18/2018 (unchanged)
+For the week ending 5/4/2018 we have spent $62,239 and have $112,761 remaining
+
 
 
 
