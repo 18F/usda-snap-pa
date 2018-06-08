@@ -9,6 +9,6 @@ As we mentioned a few times elsewhere, we are in writing mode, preparing for our
 
 ### What we are planning for next week
 
-- We'll continue finishing up our final materials.
+- we'll continue finishing up our final materials.
 
 
