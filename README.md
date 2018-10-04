@@ -2,7 +2,7 @@
 
 ## Project Description
 
-The USDA's Food and Nutrition Services (FNS) contracted with vendors to build a system to improve the process for States requesting waivers related to administering Supplimentary Nutrition Assistance Program (SNAP) benefits. With this system, they intend to reduce the time in the waiver decision making cycle, reduce inconsistencies across states, and increase customer service quality. The system would replace what is currently a paper process.
+The USDA's Food and Nutrition Services (FNS) contracted with vendors to build a system to improve the process for States requesting waivers related to administering Supplemental Nutrition Assistance Program (SNAP) benefits. With this system, they intend to reduce the time in the waiver decision making cycle, reduce inconsistencies across states, and increase customer service quality. The system would replace what is currently a paper process.
 
 Unfortunately, work produced by the vendor did not meet FNS's requirements and FNS terminated the relationship. The incomplete work that had been performed is sitting in pre-production servers. 18F will help FNS assess whether any of the work that they have is usable. We will also help set a path forward for a functioning system and for successfully managing it in the future.
 
